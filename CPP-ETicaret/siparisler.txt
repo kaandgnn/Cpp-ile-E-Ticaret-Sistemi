@@ -1,0 +1,14 @@
+enesd:6000:19.35:21.35:enesdemirci@gmail.com:Takim elbise:5:Yolda
+enesd:6000:19.36:21.36:enesdemirci@gmail.com:Takim elbise:4:Yolda
+kaandgnn:6000:19.38:21.38:kaandgnn@gmail.com:Takim elbise:3:Yolda
+enesd:1200:19.43:21.43:enesdemirci@gmail.com:Nike:1:Yolda
+enesd:350:19.46:21.46:enesdemirci@gmail.com:Jean:2:Yolda
+zeyno58:12000:19.51:21.51:zeynepikra@gmail.com:Adidas:0:Yolda
+zeyno58:1200:19.51:21.51:zeynepikra@gmail.com:Nike AirHeights:1:Yolda
+mustafas:1200:21.02:23.02:mustafasahin@gmail.com:Nike Jordan:2:Yolda
+mine:120:15.22:17.22:bagdiken@gmail.com:Basic Tshirt:0:Yolda
+eylul:120:17.06:19.06:ekedskh@gmail.com:Basic Tshirt:0:Yolda
+eylul:1700:17.08:19.08:ekedskh@gmail.com:Adidas PM500 :0:Yolda
+eylul:280:17.09:19.09:ekedskh@gmail.com:Takim Elbise:0:Yolda
+eylul:1200:17.09:19.09:ekedskh@gmail.com:Nike AirHeights:0:Yolda
+mine:99:20.39:22.39:bagdiken@gmail.com:bluz:0:Yolda

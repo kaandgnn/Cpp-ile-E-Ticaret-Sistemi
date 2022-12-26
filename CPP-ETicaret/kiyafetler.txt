@@ -1,0 +1,23 @@
+Yazlık Elbise:850:Elbise:M:Toz Pembe
+Takim Elbise:280:Gomlek:L:Siyah
+Nike AirHeights:1200:Ayakkabi:36:Krem
+Nike AirHeights:1200:Ayakkabi:37:Krem
+Nike AirHeights:1200:Ayakkabi:38:Krem
+Nike AirHeights:1200:Ayakkabi:39:Krem
+Nike AirHeights:1200:Ayakkabi:40:Krem
+Nike AirHeights:1200:Ayakkabi:41:Krem
+Nike Jordan:1200:Ayakkabi:36:Beyaz
+Nike Jordan:1200:Ayakkabi:37:Beyaz
+Nike Jordan:1200:Ayakkabi:38:Beyaz
+Nike Jordan:1200:Ayakkabi:39:Beyaz
+Nike Jordan:1200:Ayakkabi:40:Beyaz
+Adidas PM500 :1700:Ayakkabi:40:Kirmizi
+Jean:350:Pantolon:S:Mavi
+Jean:350:Pantolon:M:Mavi
+Jean:350:Pantolon:L:Mavi
+Jean:350:Pantolon:XL:Mavi
+Basic Tshirt:120:Tisort:S:Kahverengi
+Basic Tshirt:120:Tisort:M:Pembe
+Basic Tshirt:120:Tisort:L:Bordo
+Basic Tshirt:120:Tisort:XL:Gri
+bluz:99:Elbise:M:Pembe
